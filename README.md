@@ -10,6 +10,7 @@
 <h2>JIIN Livros: Organizado como Mágica✨</h2>
 <a href="https://github.com/SammyLexa/projetoJava-JiinLivros">link</a>
 <p>"JIIN Livros: Organizado como Mágica" é um sistema gerenciador de uma biblioteca, capaz de cadastrar, atualizar, consultar ou deletar livros, criado exclusivamente em Java.</p>
+<p>Em sua Primeira versão desenvolvido unicamente em Java</p>
 
 <h2>CRUD de uma Farmácia</h2>
 <a href="https://github.com/SammyLexa/CRUD-Farmacia">link</a>
