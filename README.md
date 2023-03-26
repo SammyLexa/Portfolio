@@ -1,7 +1,8 @@
 # Portfolio
 
 <h2>Site do meu Portfolio</h2>
-<a href="https://portfolio-samantha-sammylexa.vercel.app/index.html">link</a>
+<a href="https://portfolio-samantha-sammylexa.vercel.app/index.html">link do site</a></br>
+<a href="https://github.com/SammyLexa/Site-sobre-mim">link do repositório</a>
 <p>Um site sobre mim.</p>
 
 <h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link</a>
