@@ -1,5 +1,9 @@
 # Portfolio
 
+<h2>Site do meu Portfolio</h2>
+<a href="https://portfolio-samantha-sammylexa.vercel.app/index.html">link</a>
+<p>Um site sobre mim.</p>
+
 <h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link</a>
 <p>O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.</p>
 
