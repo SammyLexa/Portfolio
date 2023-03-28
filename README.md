@@ -29,6 +29,11 @@
 <a href="https://github.com/SammyLexa/ContaBancaria">link</a>
 <p>Projeto Java feito em aula no bootcamp da Generation Fullstack Java, onde criamos um CRUD de um banco.</P>
 
+<h2>Fruta & Fruto</h2>
+<a href="https://fruta-fruto-samantha-sammylexa.vercel.app/">link do site</a></br>
+<a href="https://github.com/SammyLexa/Alura_Arquitetura_CSS_Fruta-Fruto">link do repositório</a>
+<p>Site "Fruta & Fruto" desenvolvido no curso do Alura: Arquitetura CSS: descomplicando problemas, onde criamos um site com a metodologia Atomic Design, criando um arquivo para cada CSS e, dessa forma, mantendo nossos códigos curtos e simples, facilitando a manutenção.</p>
+
 <h2>Ada Lovelace</h2>
 <a href="https://ada-lovelace-samantha-sammylexa.vercel.app/">link do site</a></br>
 <a href="https://github.com/SammyLexa/Ada-Lovelace">link do repositório</a>
@@ -39,7 +44,3 @@
 <a href="https://github.com/SammyLexa/Dicionario">link do repositório</a>
 <p>Este projeto é um dicionário que lista as mulheres negras que fizeram e ainda fazem parte da história do Brasil e mundo.</p>
 
-<h2>Dicionário de Mulheres Negras</h2>
-<a href="https://fruta-fruto-samantha-sammylexa.vercel.app/">link do site</a></br>
-<a href="https://github.com/SammyLexa/Alura_Arquitetura_CSS_Fruta-Fruto">link do repositório</a>
-<p>Site "Fruta & Fruto" desenvolvido no curso do Alura: Arquitetura CSS: descomplicando problemas, onde criamos um site com a metodologia Atomic Design, criando um arquivo para cada CSS e, dessa forma, mantendo nossos códigos curtos e simples, facilitando a manutenção.</p>
