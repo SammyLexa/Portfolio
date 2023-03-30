@@ -1,12 +1,12 @@
 # Portfolio
 
-<h2>Site do meu Portfolio</h2>
+<h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link do repositório</a>
+<p>O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.</p>
+
+<h2>Site do meu Sobre Mim</h2>
 <a href="https://portfolio-samantha-sammylexa.vercel.app/index.html">link do site</a></br>
 <a href="https://github.com/SammyLexa/Site-sobre-mim">link do repositório</a>
 <p>Um site sobre mim onde você poderá encontrar meu currículo e links de redirecionamento para minhas rede sociais para contato.</p>
-
-<h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link do repositório</a>
-<p>O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.</p>
 
 <h2>Blog Pessoal</h2>
 <a href="https://github.com/SammyLexa/Blog-Pessoal">link do repositório</a>
