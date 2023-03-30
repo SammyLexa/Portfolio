@@ -5,28 +5,28 @@
 <a href="https://github.com/SammyLexa/Site-sobre-mim">link do repositório</a>
 <p>Um site sobre mim onde você poderá encontrar meu currículo e links de redirecionamento para minhas rede sociais para contato.</p>
 
-<h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link</a>
+<h2>Grafeat: Parte da Arte</h2> <a href="https://github.com/SammyLexa/projetoIntegrador-grafeat">link do repositório</a>
 <p>O software será um e-commerce focado na venda e promoção de produtos artesanais produzidos por pessoas em vulnerabilidade econômica e social. Na versão inicial do projeto focaremos na comunidade do grafite e suas confecções. Nosso site servirá de vitrine para todos os produtos relacionados à arte e grafite, onde o vendedor poderá criar um usuário e adicionar uma breve biografia, seus produtos e características. Quando os produtos já estiverem cadastrados será possível realizar consulta e atualização por nome, categoria, preço, e, se necessário, realizar a exclusão de itens. O projeto será sem fins lucrativos, cobrando apenas uma pequena taxa dos produtos para manutenção do site.</p>
 
 <h2>Blog Pessoal</h2>
-<a href="https://github.com/SammyLexa/Blog-Pessoal">link</a>
+<a href="https://github.com/SammyLexa/Blog-Pessoal">link do repositório</a>
 <p>Projeto de Blog Pessoal desenvolvido no bootcamp da Generation Brasil, desenvolvido em Java, Spring, Insomnia e MySQL</p>
 
 <h2>JIIN Livros: Organizado como Mágica✨</h2>
-<a href="https://github.com/SammyLexa/projetoJava-JiinLivros">link</a>
+<a href="https://github.com/SammyLexa/projetoJava-JiinLivros">link do repositório</a>
 <p>"JIIN Livros: Organizado como Mágica" é um sistema gerenciador de uma biblioteca, capaz de cadastrar, atualizar, consultar ou deletar livros, criado exclusivamente em Java.</p>
 <p>Em sua Primeira versão desenvolvido unicamente em Java</p>
 
 <h2>CRUD de uma Farmácia</h2>
-<a href="https://github.com/SammyLexa/CRUD-Farmacia">link</a>
+<a href="https://github.com/SammyLexa/CRUD-Farmacia">link do repositório</a>
 <p>Projeto desenvolvido em Java, Spring, Insomnia e MySQL, capaz de cadastrar, consultar, atualizar e deletar produtos.</p>
 
 <h2>CRUD de uma Loja de Games</h2>
-<a href="https://github.com/SammyLexa/CRUD-Loja-de-Games">link</a>
+<a href="https://github.com/SammyLexa/CRUD-Loja-de-Games">link do repositório</a>
 <p>Projeto desenvolvido em Java, Spring, Insomnia e MySQL, capaz de cadastrar, consultar, atualizar e deletar produtos.</p>
 
 <h2>CRUD de Banco</h2>
-<a href="https://github.com/SammyLexa/ContaBancaria">link</a>
+<a href="https://github.com/SammyLexa/ContaBancaria">link do repositório</a>
 <p>Projeto Java feito em aula no bootcamp da Generation Fullstack Java, onde criamos um CRUD de um banco.</P>
 
 <h2>Fruta & Fruto</h2>
