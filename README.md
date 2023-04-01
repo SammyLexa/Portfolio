@@ -12,6 +12,11 @@
 <a href="https://github.com/SammyLexa/Blog-Pessoal">link do repositório</a>
 <p>Projeto de Blog Pessoal desenvolvido no bootcamp da Generation Brasil, desenvolvido em Java, Spring, Insomnia e MySQL</p>
 
+<h2>Site Promocional do Alura+ e Alura Língua</h2>
+<a href="https://alura-plus-alura-lingua-4wd0u4b3c-sammylexa.vercel.app/">link do site</a></br>
+<a href="https://github.com/SammyLexa/AluraPlus-AluraLingua">link do repositório</a>
+<p>Este projeto é site do Combo Promocional da Alura+ com o Alura Língua para treinar HTML e CSS.</p>
+
 <h2>JIIN Livros: Organizado como Mágica✨</h2>
 <a href="https://github.com/SammyLexa/projetoJava-JiinLivros">link do repositório</a>
 <p>"JIIN Livros: Organizado como Mágica" é um sistema gerenciador de uma biblioteca, capaz de cadastrar, atualizar, consultar ou deletar livros, criado exclusivamente em Java.</p>
