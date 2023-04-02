@@ -24,7 +24,7 @@
 
 <img height="300px" src="https://user-images.githubusercontent.com/123910027/229313810-f17c6a78-6a78-41f3-84e7-c099fec35aca.png">
 
-<a href="https://alura-plus-alura-lingua-4wd0u4b3c-sammylexa.vercel.app/">link do site</a></br>
+<a href="https://alura-plus-alura-lingua-git-main-sammylexa.vercel.app/">link do site</a></br>
 <a href="https://github.com/SammyLexa/AluraPlus-AluraLingua">link do repositório</a>
 <p>Este projeto é site do Combo Promocional da Alura+ com o Alura Língua para treinar HTML e CSS.</p>
 
